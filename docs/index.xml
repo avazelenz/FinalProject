@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+
+<front>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>ESS 330 Project Proposals</article-title>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Zelenz</surname>
+<given-names>Ava</given-names>
+</name>
+<string-name>Ava Zelenz</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Eastman</surname>
+<given-names>Avery</given-names>
+</name>
+<string-name>Avery Eastman</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1">
+<institution-wrap>
+<institution>CSU</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1"></corresp>
+</author-notes>
+
+
+
+
+
+
+
+
+
+<history></history>
+
+
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<sec id="section">
+  <title>Section</title>
+  <p>Title: Monarch Butterfly Decline in the U.S. Justification: The
+  loss of biodiversity is something that we are seeing more and more of
+  as climate change worsens. This topic is one that I have experience
+  observing back home in New York. Throughout the past 20 or so years,
+  there has been a heavy decrease in the amount of monarch sightings
+  across the country, with an estimated 81% decline in monarchs from
+  1999 to 2010
+  (<xref alt="Pleasants &amp; Oberhauser, 2013" rid="ref-pleasants2013milkweed" ref-type="bibr">Pleasants
+  &amp; Oberhauser, 2013</xref>). Monarch population decline is linked
+  to the decline of milkweed population, as they feed primarily on this.
+  Long-term plant surveys have been utilized to evaluate the correlation
+  of milkweed and monarchs, which found a 68% loss of milkweed available
+  to monarchs (Zaya,2017). This is a significant problem because
+  monarchs are on track to become endangered and extinct, and if the
+  statistics and data show this a main contributor for the decline of
+  milkweed, we can change that and hopefully bring back the population
+  of monarchs and avoid a loss of species and more biodiversity.
+  Research objective/question/hypothesis: Decline in milkweed growth
+  leads to the decline of monarch populations in the U.S. Prosed
+  Methods: The variables I would like to measure are monarch population,
+  milkweed growth within the U.S., and a time span of 20 years. I will
+  perform a statistic test to determine their correlation based on the
+  data that I find. I will also plot the results I get. I will look at
+  the data.gov and on Nature Scientific Data, to find datasets that show
+  the monarch and milkweed correlation. I will also look at DataCite for
+  more data. This scope will be within the U.S. Before I start with my
+  correlation tests, I will assess normality and skewness in the data,
+  and make adjustments to clean the data if necessary. Expected
+  Outcomes: I would expect to find that there is a statistically
+  significant value that shows a positive correlation between milkweed
+  and monarch population.</p>
+</sec>
+</body>
+
+<back>
+<ref-list>
+  <title></title>
+  <ref id="ref-pleasants2013milkweed">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Pleasants</surname><given-names>John M</given-names></name>
+        <name><surname>Oberhauser</surname><given-names>Karen S</given-names></name>
+      </person-group>
+      <article-title>Milkweed loss in agricultural fields because of herbicide use: Effect on the monarch butterfly population</article-title>
+      <source>Insect Conservation and Diversity</source>
+      <publisher-name>Wiley Online Library</publisher-name>
+      <year iso-8601-date="2013">2013</year>
+      <volume>6</volume>
+      <issue>2</issue>
+      <fpage>135</fpage>
+      <lpage>144</lpage>
+    </element-citation>
+  </ref>
+</ref-list>
+</back>
+
+
+
+</article>
