@@ -75,39 +75,187 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
 </front>
 
 <body>
-<sec id="section">
-  <title>Section</title>
-  <p>Title: Monarch Butterfly Decline in the U.S. Justification: The
-  loss of biodiversity is something that we are seeing more and more of
-  as climate change worsens. This topic is one that I have experience
-  observing back home in New York. Throughout the past 20 or so years,
-  there has been a heavy decrease in the amount of monarch sightings
-  across the country, with an estimated 81% decline in monarchs from
-  1999 to 2010
-  (<xref alt="Pleasants &amp; Oberhauser, 2013" rid="ref-pleasants2013milkweed" ref-type="bibr">Pleasants
-  &amp; Oberhauser, 2013</xref>). Monarch population decline is linked
-  to the decline of milkweed population, as they feed primarily on this.
-  Long-term plant surveys have been utilized to evaluate the correlation
-  of milkweed and monarchs, which found a 68% loss of milkweed available
-  to monarchs (Zaya,2017). This is a significant problem because
-  monarchs are on track to become endangered and extinct, and if the
-  statistics and data show this a main contributor for the decline of
-  milkweed, we can change that and hopefully bring back the population
-  of monarchs and avoid a loss of species and more biodiversity.
-  Research objective/question/hypothesis: Decline in milkweed growth
-  leads to the decline of monarch populations in the U.S. Prosed
-  Methods: The variables I would like to measure are monarch population,
-  milkweed growth within the U.S., and a time span of 20 years. I will
-  perform a statistic test to determine their correlation based on the
-  data that I find. I will also plot the results I get. I will look at
-  the data.gov and on Nature Scientific Data, to find datasets that show
-  the monarch and milkweed correlation. I will also look at DataCite for
-  more data. This scope will be within the U.S. Before I start with my
-  correlation tests, I will assess normality and skewness in the data,
-  and make adjustments to clean the data if necessary. Expected
-  Outcomes: I would expect to find that there is a statistically
-  significant value that shows a positive correlation between milkweed
-  and monarch population.</p>
+<sec id="section-1-ava">
+  <title>Section 1 Ava</title>
+  <sec id="title-monarch-butterfly-decline-in-the-u.s.">
+    <title>Title: Monarch Butterfly Decline in the U.S.</title>
+    <p>Justification: The loss of biodiversity is something that we are
+    seeing more and more of as climate change worsens. This topic is one
+    that I have experience observing back home in New York. Throughout
+    the past 20 or so years, there has been a heavy decrease in the
+    amount of monarch sightings across the country, with an estimated
+    81% decline in monarchs from 1999 to 2010
+    (<xref alt="Pleasants &amp; Oberhauser, 2013" rid="ref-pleasants2013milkweed" ref-type="bibr">Pleasants
+    &amp; Oberhauser, 2013</xref>). Monarch population decline is linked
+    to the decline of milkweed population, as they feed primarily on
+    this. Long-term plant surveys have been utilized to evaluate the
+    correlation of milkweed and monarchs, which found a 68% loss of
+    milkweed available to monarchs
+    (<xref alt="Zaya, Pearse, &amp; Spyreas, 2017" rid="ref-zaya2017long" ref-type="bibr">Zaya,
+    Pearse, &amp; Spyreas, 2017</xref>). This is a significant problem
+    because monarchs are on track to become endangered and extinct, and
+    if the statistics and data show this a main contributor for the
+    decline of milkweed, we can change that and hopefully bring back the
+    population of monarchs and avoid a loss of species and more
+    biodiversity.</p>
+    <p>Research objective/question/hypothesis: Decline in milkweed
+    growth leads to the decline of monarch populations in the U.S.</p>
+    <p>Proposed Methods: The variables I would like to measure are
+    monarch population, milkweed growth within the U.S., and a time span
+    of 20 years. I will perform a statistic test to determine their
+    correlation based on the data that I find. I will also plot the
+    results I get. I will look at the data.gov and on Nature Scientific
+    Data, to find datasets that show the monarch and milkweed
+    correlation. I will also look at DataCite for more data. This scope
+    will be within the U.S. Before I start with my correlation tests, I
+    will assess normality and skewness in the data, and make adjustments
+    to clean the data if necessary.</p>
+    <p>Expected Outcomes: I would expect to find that there is a
+    statistically significant value that shows a positive correlation
+    between milkweed and monarch population.</p>
+  </sec>
+</sec>
+<sec id="section-2">
+  <title>Section 2</title>
+  <sec id="title-how-colorado-is-impacted-by-nonnative-plants">
+    <title>Title: How Colorado is Impacted By Nonnative Plants</title>
+    <p>Justification: Colorado is home to very unique plants which serve
+    the connected ecosystem. With birds, fish, insects, and other
+    animals relying on these native plants, they can be threatened by
+    nonnative species and their presence in Colorado. With the presence
+    of these nonnative species, there are uncertain effects that can
+    pose problems
+    (<xref alt="Byrne, Lauenroth, &amp; McManus, 2010" rid="ref-byrne2010impacts" ref-type="bibr">Byrne,
+    Lauenroth, &amp; McManus, 2010</xref>). The determination of if
+    these nonnative species in Colorado are harmful or helpful needs to
+    be looked into and researched more. There have been studies in Rocky
+    Mountain National Park, that state there is a uneven distribution of
+    native and nonnative plants within RMNP, and that this biological
+    and geological difference is a contributing factor of the
+    relationship between these two types of plant
+    (<xref alt="Kumar, Stohlgren, &amp; Chong, 2006" rid="ref-kumar2006spatial" ref-type="bibr">Kumar,
+    Stohlgren, &amp; Chong, 2006</xref>). To understand this
+    relationship would prove to be helpful to the biodiversity of
+    Colorado, as there are many fragile ecosystems within the state that
+    will either be negatively or positively impacted by nonnative
+    species.</p>
+    <p>Research objective/question/hypothesis: How does the relationship
+    between nonnative and native plant species change throughout
+    Colorado?</p>
+    <p>Proposed methods: The variables I would include would be the
+    nonnative species within Colorado, the native species, and a time
+    span of around 25-30 years, as plants and their influence on the
+    environments around them take a long time to show effects. I will
+    perform a statistic test to determine their correlation based on the
+    data that I find as well as plotting the results I get. I’ve found a
+    datasets on data.gov about nonnative plants, and areas of critical
+    environmental concern, both in Colorado, as the scope will be just
+    Colorado. Again, I will be looking at the datasets to take into
+    consideration the skewness of the data, as make changes
+    accordingly.</p>
+    <p>Expected Outcomes: I expect theses outcomes to be not straight
+    forward, like my previous proposal. Due to previous knowledge, the
+    influence of nonnative plants on biodiversity is a very complex
+    relationship, so I think in parts of the data there will be points
+    of proof that there is a negative and positive correlation between
+    the two and their interactions.</p>
+  </sec>
+</sec>
+<sec id="section-3-avery">
+  <title>Section 3 Avery</title>
+  <sec id="proposal-1-shifts-in-bird-migration-patterns-due-to-changing-climate">
+    <title>Proposal 1: Shifts in Bird Migration Patterns Due to Changing
+    Climate</title>
+    <p>Justification: As human-caused climate change continues to
+    accelerate at concerning levels, it is essential to track the
+    responding changes in ecosystems in order to conserve and sustain
+    them. All organisms will be affected by these changes and will
+    either have to adapt or face the risk of extinction. In response to
+    climate change, one change we can expect to see across many species
+    is, change in migration and distribution patterns. Migratory birds
+    contribute significantly to various ecosystems, and according to
+    (<xref alt="Koleček, Adamı́k, &amp; Reif, 2020" rid="ref-kolevcek2020shifts" ref-type="bibr">Koleček,
+    Adamı́k, &amp; Reif, 2020</xref>), increasing temperatures leads to
+    shifts in species abundance. Shift in abundance are extremely
+    important to monitor from a sustainability standpoint. Ecosystems
+    offer many services that we rely on, hence part of the importance in
+    conserving and sustaining them. In addition,
+    (<xref alt="Tomotani et al., 2018" rid="ref-tomotani2018climate" ref-type="bibr">Tomotani
+    et al., 2018</xref>) reports that climate change may ultimate lead
+    to negative changes in bird species fitness. Migratory birds also
+    play a role in maintaining plant and vegetation growth through seed
+    dispersal. Thus, shifts in their migratory patterns could negatively
+    effect plant growth.</p>
+    <p>Research objective/question/hypothesis: Through this study I aim
+    to discover how bird migratory behavior is affected by climate
+    change. My hypothesis is: changes in temperature and weather
+    patterns are drivers of shifts in bird migration. I will use a
+    regression model to assess the relationship between climate
+    (independent variable) and bird migration (dependent variable).</p>
+    <p>Proposed Methods: I plan to use a dataset that shows climate
+    (including variables such as temperature, precipitation, rainfall,
+    etc) throughout many year, which I then plan to filter to the U.S.
+    and a 10 year timeframe. I also plan to use data on bird migration
+    patterns (this may be several dataset), that show variables such as
+    species, geographic info, distance traveled, migration times (start,
+    end, variability). Additionally, if needed I will narrow my spatial
+    scope by choosing 6-12 different states to look at. Before I do any
+    statistical testing on my data I will be testing for a normal
+    distribution. If it is not normally distributed I will have to use
+    different statistic tests.</p>
+    <p>Expected Outcomes: I expect to see a relationship between change
+    in climate and change in migration patterns, thus I expect to reject
+    the null hypothesis. This is an important outcome to get because it
+    will be reflective of the current threat of climate change to
+    biodiversity and ecosystems.</p>
+  </sec>
+</sec>
+<sec id="section-4">
+  <title>Section 4</title>
+  <sec id="proposal-2-monocropping-affects-on-soil">
+    <title>Proposal 2: Monocropping Affects on Soil</title>
+    <p>Justification: Monocropping is a common agricultural practice
+    where a single crop is grown for an amount of time. This agriculture
+    practice is shown to cause diminishing effects on soil health, which
+    accoring to
+    (<xref alt="Belete &amp; Yadete, 2023" rid="ref-belete2023effect" ref-type="bibr">Belete
+    &amp; Yadete, 2023</xref>) can have serious economic consequences.
+    Monocropping increases soil infertility which decreases crop yields
+    and soil quality.
+    (<xref alt="Belete &amp; Yadete, 2023" rid="ref-belete2023effect" ref-type="bibr">Belete
+    &amp; Yadete, 2023</xref>) also illustrates that monocropping causes
+    changes in “soil microbial communities, nutrient availability, and
+    allelopathy effect”. Additionally, often times as farmers try to
+    combate decreasing yields by using synthetic fertilizers, which is
+    very bad for soil health. Ultimately, monocropping is not
+    sustainable for either the environment or the economy, thus a change
+    is needed. Further studies are also needed to quantify monocroppings
+    effect in order to spur change.
+    (<xref alt="Katherasala et al., 2024" rid="ref-katherasala2024unveiling" ref-type="bibr">Katherasala
+    et al., 2024</xref>) empashise the importance of educating farmers
+    of monocultures harmful effect and alternative sustainable farming
+    methods. Furthermore, with a reduce in crop fields, food security
+    for many communities will be put at risk. Thus, clearly understand
+    monocroppings affects on soil health and fertily is important for
+    safeguarding food security.</p>
+    <p>Research objective/question/hypothesis: This study will aim to
+    analyze the long-term effects of mono-cropping on soil health. For
+    the sake of this study, soil health will be measure by soil
+    fertility, soil diversity, and nutrient cycling. The hypothesis for
+    this study is: Over time mono-cropping depletes soil health,
+    fertility, and biodiversity.</p>
+    <p>Proposed Methods: The datasets used will include variables such
+    as: soil pH, organic matter content, microbial diversity, and
+    nutrient levels. Data on crop yield would also be a helpful
+    comparisson. I will get my data maily from the USDA’s National
+    Resources Inventory. I think both ANOVA tests or regression analysis
+    would work for testing my hypothesis. I intend to use data from the
+    U.S. and that was collected over a span of 10 years.</p>
+    <p>Expected Outcomes: I expect to see that moncropping leads to a
+    decline in soil health over time. Which will emphasize the
+    importance for farmer to switch to more sustainable farming
+    practices.</p>
+  </sec>
 </sec>
 </body>
 
@@ -128,6 +276,128 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
       <issue>2</issue>
       <fpage>135</fpage>
       <lpage>144</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-zaya2017long">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Zaya</surname><given-names>David N</given-names></name>
+        <name><surname>Pearse</surname><given-names>Ian S</given-names></name>
+        <name><surname>Spyreas</surname><given-names>Greg</given-names></name>
+      </person-group>
+      <article-title>Long-term trends in midwestern milkweed abundances and their relevance to monarch butterfly declines</article-title>
+      <source>BioScience</source>
+      <publisher-name>Oxford University Press</publisher-name>
+      <year iso-8601-date="2017">2017</year>
+      <volume>67</volume>
+      <issue>4</issue>
+      <fpage>343</fpage>
+      <lpage>356</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-kumar2006spatial">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Kumar</surname><given-names>Sunil</given-names></name>
+        <name><surname>Stohlgren</surname><given-names>Thomas J</given-names></name>
+        <name><surname>Chong</surname><given-names>Geneva W</given-names></name>
+      </person-group>
+      <article-title>Spatial heterogeneity influences native and nonnative plant species richness</article-title>
+      <source>Ecology</source>
+      <publisher-name>Wiley Online Library</publisher-name>
+      <year iso-8601-date="2006">2006</year>
+      <volume>87</volume>
+      <issue>12</issue>
+      <fpage>3186</fpage>
+      <lpage>3199</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-byrne2010impacts">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Byrne</surname><given-names>Kerry M</given-names></name>
+        <name><surname>Lauenroth</surname><given-names>William K</given-names></name>
+        <name><surname>McManus</surname><given-names>Lindsay</given-names></name>
+      </person-group>
+      <article-title>Impacts of nonnative plant species on production and diversity in the front range of colorado</article-title>
+      <source>Western North American Naturalist</source>
+      <publisher-name>BioOne</publisher-name>
+      <year iso-8601-date="2010">2010</year>
+      <volume>70</volume>
+      <issue>3</issue>
+      <fpage>288</fpage>
+      <lpage>295</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-kolevcek2020shifts">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Koleček</surname><given-names>Jaroslav</given-names></name>
+        <name><surname>Adamı́k</surname><given-names>Peter</given-names></name>
+        <name><surname>Reif</surname><given-names>Jiřı́</given-names></name>
+      </person-group>
+      <article-title>Shifts in migration phenology under climate change: Temperature vs. Abundance effects in birds</article-title>
+      <source>Climatic Change</source>
+      <publisher-name>Springer</publisher-name>
+      <year iso-8601-date="2020">2020</year>
+      <volume>159</volume>
+      <issue>2</issue>
+      <fpage>177</fpage>
+      <lpage>194</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-tomotani2018climate">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Tomotani</surname><given-names>Barbara M</given-names></name>
+        <name><surname>Jeugd</surname><given-names>Henk van der</given-names></name>
+        <name><surname>Gienapp</surname><given-names>Phillip</given-names></name>
+        <name><surname>Hera</surname><given-names>Iván de la</given-names></name>
+        <name><surname>Pilzecker</surname><given-names>Jos</given-names></name>
+        <name><surname>Teichmann</surname><given-names>Corry</given-names></name>
+        <name><surname>Visser</surname><given-names>Marcel E</given-names></name>
+      </person-group>
+      <article-title>Climate change leads to differential shifts in the timing of annual cycle stages in a migratory bird</article-title>
+      <source>Global change biology</source>
+      <publisher-name>Wiley Online Library</publisher-name>
+      <year iso-8601-date="2018">2018</year>
+      <volume>24</volume>
+      <issue>2</issue>
+      <fpage>823</fpage>
+      <lpage>835</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-belete2023effect">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Belete</surname><given-names>Tegegn</given-names></name>
+        <name><surname>Yadete</surname><given-names>Eshetu</given-names></name>
+      </person-group>
+      <article-title>Effect of mono cropping on soil health and fertility management for sustainable agriculture practices: A review</article-title>
+      <source>Plant Sci</source>
+      <year iso-8601-date="2023">2023</year>
+      <volume>11</volume>
+      <fpage>192</fpage>
+      <lpage>197</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-katherasala2024unveiling">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Katherasala</surname><given-names>Srinivas</given-names></name>
+        <name><surname>Bheenaveni</surname><given-names>Ram Shepherd</given-names></name>
+        <name><surname>Chinthakindi</surname><given-names>Parandamulu</given-names></name>
+        <name><surname>Vadlakonda</surname><given-names>Divya</given-names></name>
+        <name><surname>Kummari</surname><given-names>Nithyanandam</given-names></name>
+        <name><surname>Bandi</surname><given-names>Sushmita Susan</given-names></name>
+      </person-group>
+      <article-title>Unveiling the detrimental impacts of intensive chemical use and monoculture on soil health and sustainable development goal 15: Life on land in telangana</article-title>
+      <source>Journal of Lifestyle and SDGs Review</source>
+      <year iso-8601-date="2024">2024</year>
+      <volume>4</volume>
+      <issue>2</issue>
+      <fpage>10</fpage>
+      <lpage>47172</lpage>
     </element-citation>
   </ref>
 </ref-list>
